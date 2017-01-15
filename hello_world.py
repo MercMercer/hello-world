@@ -1,8 +1,8 @@
 #! python3
-# hello_world.py - Opens the console and prints "Hello, world!".
+# hello_world.py - Opens the console and prints "Hello, world!!!".
 
 def hello():
-    return "Hello, world!"
+    return "Hello, world!!!"
 
 def main():
     print(hello())
